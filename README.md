@@ -3,4 +3,4 @@
    
    
 
-SSD code was cloned from the repository - https://github.com/amdegroot/ssd.pytorch
+SSD code cloned from the repository - https://github.com/amdegroot/ssd.pytorch
